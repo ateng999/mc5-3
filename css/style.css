@@ -152,13 +152,13 @@ body {
 }
 
 .group_leader .wrap {
-	padding: 34px 15px;
+	padding: 34px 15px 16px;
 }
 
 .group_leader_content {
 	background: url(/img/group_leader_bg.png) no-repeat center;
 	background-color: var(--cream);
-	padding: 22px 0;
+	padding: 22px 0 153px;
 }
 
 .group_leader_content .main_ttl {
